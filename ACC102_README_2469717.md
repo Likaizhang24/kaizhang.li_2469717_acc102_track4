@@ -43,7 +43,7 @@ jupyter notebook notebook.ipynb
 ```
 
 ## 6. Product Links
-- **GitHub Repository**: https://github.com/codekey163/acc102-financial-analysis.git
+- **GitHub Repository**: https://github.com/Likaizhang24/kaizhang.li_2469717_acc102_track4.git
 - **Streamlit Application**: https://acc102-financial-analysis-gsugbacordsssvgmcd3rrr.streamlit.app
 
 
