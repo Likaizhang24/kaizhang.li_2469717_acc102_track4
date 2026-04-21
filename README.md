@@ -1,5 +1,5 @@
 Listed Company Financial Performance Analysis Tool
-
+2469717 kaizhang li
 ## 1. Problem and Users
 The tool helps investors quickly access stock data, calculate key financial indicators, and support investment decisions through visualization.
 
